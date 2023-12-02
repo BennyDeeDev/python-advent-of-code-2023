@@ -15,7 +15,7 @@ Welcome to my repository for the Advent of Code 2023 challenges! Here, I documen
 
 ## Approach
 
-For each day's challenge, I start by understanding the problem and then writing a solution that I believe solves it. This initial solution is purely my own creation, without external influences. Afterward, I consult with GPT to provide a second solution, which often includes more advanced Python features or a different logic approach that may be more efficient or elegant.
+For each day's challenge, I start by understanding the problem and then writing a solution that solves it. This initial solution is purely my own creation, without external influences. Afterward, I consult with GPT to provide a second solution, which often includes more advanced Python features or a different logic approach that may be more efficient or elegant.
 
 This dual-approach not only allows me to practice and improve my own coding skills but also gives me insights into different programming styles and techniques that can be learned from AI-assisted programming.
 
